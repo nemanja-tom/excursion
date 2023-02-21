@@ -29,3 +29,13 @@ a.download {
     color: aquamarine;
     text-decoration: underline;
 }
+
+p.copyright {
+    color: gray;
+    text-align: right;
+}
+
+img {
+    display: block;
+    margin: 2rem auto;
+}
